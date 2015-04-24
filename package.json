@@ -1,6 +1,6 @@
 {
   "name": "react-purerender",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "the purerender mixin in a decorator compatible way",
   "main": "index.js",
   "scripts": {
