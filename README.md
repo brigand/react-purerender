@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brigand/react-purerender.svg?branch=master)](https://travis-ci.org/brigand/react-purerender)
+
 It's just syntax sugar.  It does a few sanity checks and then sticks a shouldComponentUpdate function on your class.
 
 ```js
