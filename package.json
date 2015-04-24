@@ -1,0 +1,31 @@
+{
+  "name": "react-purerender",
+  "version": "1.0.0",
+  "description": "the purerender mixin in a decorator compatible way",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel-node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brigand/react-purerender.git"
+  },
+  "keywords": [
+    "react",
+    "react-components",
+    "purerender",
+    "immutable",
+    "shouldComponentUpdate"
+  ],
+  "author": "Frankie Bagnardi <f.bagnardi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brigand/react-purerender/issues"
+  },
+  "homepage": "https://github.com/brigand/react-purerender",
+  "devDependencies": {
+    "babel": "^5.1.11",
+    "react": "^0.13.2",
+    "tape": "^4.0.0"
+  }
+}
